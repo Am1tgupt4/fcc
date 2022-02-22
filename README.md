@@ -1,5 +1,4 @@
-# fcc
-Repo to keep track of my FCC progress
+#FCC - Repo to keep track of my FCC progress
 
 - https://www.freecodecamp.org/learn/responsive-web-design/ 
   - Html
@@ -26,3 +25,5 @@ Repo to keep track of my FCC progress
   - Functional Programming
   - Intermediate DSA
   - DSA Projects/Sums
+
+Notes: https://amit-kumar-gupta.notion.site/FCC-a4deded509d644ae8f5fd735b41519fa 
